@@ -1,0 +1,12 @@
+div{
+    
+    border: black, 3px, solid;
+    margin: 10px;
+    padding: 10px;
+    background-color: lightblue;
+    margin: 10px;
+}
+div div{
+    border: none;
+    background-color: lightblue;
+}
